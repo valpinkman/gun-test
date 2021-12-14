@@ -8,12 +8,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "gun": "^0.2020.1235",
+    "iris-lib": "^0.0.159",
     "next": "12.0.7",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
+    "@types/react": "^17.0.37",
     "eslint": "8.4.1",
-    "eslint-config-next": "12.0.7"
+    "eslint-config-next": "12.0.7",
+    "typescript": "^4.5.4"
   }
 }
